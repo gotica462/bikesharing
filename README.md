@@ -40,6 +40,8 @@ We can see form both graph that male users are still more inclined to use the bi
 
 ![image](https://github.com/gotica462/bikesharing/blob/main/Images/Top%20Starting%20Locations.png)
 
+![image](https://github.com/gotica462/bikesharing/blob/main/Images/Top%20Ending%20Locations.png)
+
 This chart help us know the more popular spots in the city wher people pick and drop the bikes. Therefore, where most bikes are needed.
 
 ## Summary
