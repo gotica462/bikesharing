@@ -48,6 +48,8 @@ This chart help us know the more popular spots in the city wher people pick and 
 
 # Bike Utilization
 
+![image](https://github.com/gotica462/bikesharing/blob/main/Images/Bike%20Utilization.png)
+
 From this graph we can determine which are the bikes more used, so we can determine the ammount of repairs needed. 
 
 ## Summary
