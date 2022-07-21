@@ -30,11 +30,13 @@ During the Weekdays we can see that the service is most used between the hours o
 
 ![image](https://github.com/gotica462/bikesharing/blob/main/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
+We can see from this graph that male users tend to use the service more than females, so we should focus our campaign to try to incorporate more women to use the service
+
 # User trips by Gender by Weekday
 
 ![image](https://github.com/gotica462/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-We can see form both graph that male users are still more inclined to use the bike city ride service, and we can see that the most popular days to use the sevivice by both genders is Thursday and Friday
+We can see this graph that male users are still more inclined to use the bike city ride service, and we can see that the most popular days to use the sevivice by both genders is Thursday and Friday
 
 # Top Starting and Top Ending locations.
 
