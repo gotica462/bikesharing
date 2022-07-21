@@ -46,6 +46,10 @@ We can see this graph that male users are still more inclined to use the bike ci
 
 This chart help us know the more popular spots in the city wher people pick and drop the bikes. Therefore, where most bikes are needed.
 
+# Bike Utilization
+
+From this graph we can determine which are the bikes more used, so we can determine the ammount of repairs needed. 
+
 ## Summary
 
 Based on the visualizations we can determine:
